@@ -7,5 +7,5 @@ null,
 {"id":5,"expanded":false,"name":"Goblin Cave","order":4,"parentId":3,"scrollX":1508,"scrollY":2030.6666666666667},
 {"id":6,"expanded":true,"name":"Farm","order":5,"parentId":3,"scrollX":1366.8,"scrollY":764.4},
 {"id":7,"expanded":false,"name":"FarmInside","order":6,"parentId":6,"scrollX":1518.6666666666667,"scrollY":849.3333333333334},
-{"id":8,"expanded":false,"name":"Magic City","order":8,"parentId":1,"scrollX":1518.6666666666667,"scrollY":849.3333333333334}
+{"id":8,"expanded":false,"name":"Magic City","order":8,"parentId":1,"scrollX":1081.3333333333333,"scrollY":830.6666666666666}
 ]
